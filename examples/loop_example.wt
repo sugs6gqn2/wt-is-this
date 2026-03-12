@@ -1,0 +1,14 @@
+// مثال لجملة التكرار While وجملة الشرط If باستخدام رموز عربية وصينية ومصرية
+
+while (true) {
+    if (condition) {
+        print("هذا مثال على حلقة بينما في البرمجة."); // This is an example of a while loop in programming.
+        print("这是一个 while 循环的例子。"); // This is an example of a while loop in Chinese.
+        print("𓀀𓀁𓀂使用埃及符号的示例。"); // Example using Egyptian symbols.
+    }
+}
+
+// تأكد من أن الطابعة تعمل.
+print("طباعة نصوص من اللغات المختلفة تتطلب معرفة كيفية التعامل معها.");
+print("Printing texts from different languages requires knowledge of how to handle them.");
+print("使用不同语言打印文本需要了解如何处理它们。");
